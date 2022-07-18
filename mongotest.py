@@ -17,6 +17,18 @@ d= {
     "surname":"singh",
 
 }
+d= {
+    "name":"gursimran",
+    "email":"gursim211@gmail.com",
+    "surname":"singh",
+
+}
+d= {
+    "name":"gursimran",
+    "email":"gursim211@gmail.com",
+    "surname":"singh",
+
+}
 db1 =client['mongotest']
 coll = db1['test']
 coll.insert_one(d )
